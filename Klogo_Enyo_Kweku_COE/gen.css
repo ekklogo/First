@@ -1,0 +1,17 @@
+body{background-color: #384a5e;}
+#maize{ color:#7bf8f0; font-size: 20px;}
+a{text-decoration: none; color: #42918b;}
+span{margin-right: 180px; color: white;}
+#man{color:darkseagreen;}
+#fo{margin-left: 1150px; color: red;}
+#last{
+     margin-left: 1170px; 
+    border-color: white;
+    border-radius: 20px; 
+    padding-left: 18px;
+    padding-top: 4px; 
+    padding-right: 20px; 
+    padding-bottom: 4px;
+    background-color: crimson; 
+    color: white;
+    }
