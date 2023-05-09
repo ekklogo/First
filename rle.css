@@ -1,0 +1,30 @@
+body{
+    background-image: url(side.jpg);
+    background-size: cover;
+    background-color:rgb(84, 115, 136);
+    background-blend-mode: multiply;
+}
+#me{
+    
+}
+img{
+    margin-left: 27px;
+    margin-top: 30px;
+    border-style:solid;
+    border-color: white;
+    border-radius: 30px;
+}
+#sec{
+    margin-left: 300px;
+}
+#first{
+    margin-left: 100px;
+}
+
+
+#second{
+    margin-left: 250px;
+}
+#st{
+    margin-left: 70px;
+}

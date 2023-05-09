@@ -1,0 +1,37 @@
+body{
+    background-image: url(front.jpg);
+    background-size: cover ;
+    background-color:rgb(77, 77, 77);
+    background-blend-mode: multiply;
+}
+#format{
+    margin-top: 160px;
+    margin-left: 400px ;
+    margin-right: 400px;
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    border-color: white ;
+    border-style:inset;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+
+}
+#fruit{
+    color: white;
+    font-family: arial;
+    font-size: 12px;
+}
+a{
+    text-decoration: none;
+}
+legend{
+    color: white;
+}
+input{
+    filter: brightness(80%);
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 40px;
+    padding-left: 7px;
+}

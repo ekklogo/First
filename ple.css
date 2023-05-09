@@ -1,0 +1,13 @@
+body{
+    background-image: url(pngtree-blockchain-big-data-mobile-phone-technology-image_11331.jpg);
+    background-size: cover;
+    background-color: gray;
+    background-blend-mode: multiply;
+}
+img{
+    margin-left: 30px;
+    margin-top: 30px;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: white;
+}
